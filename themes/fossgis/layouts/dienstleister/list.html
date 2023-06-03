@@ -21,6 +21,10 @@
           zoom: 2,
         }),
       });
+      // TODO: create coordinates from each service provider
+      {{ range .Pages | shuffle }}
+           console.log('{{ .Title }}')
+       {{ end }}
 </script>
 
 <content class="provider-content">
