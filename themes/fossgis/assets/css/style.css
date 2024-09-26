@@ -137,7 +137,7 @@ footer {
 	margin-top: 3em;
 }
 
-.pagination .page-item {	
+.pagination .page-item {
 	display: inline-block;
 	margin-bottom: 1em;
 }
@@ -179,7 +179,7 @@ footer {
 
 .provider-badge.provider-software {
 	background-color: #f29933;
-} 
+}
 
 .provider-badge.provider-project {
 	background-color: #44ad55;
@@ -197,7 +197,7 @@ footer {
     line-height: 15rem;
 	display: flex;
 	flex-direction: row;
-	align-items: center; 
+	align-items: center;
 	justify-content: center
 }
 
@@ -216,7 +216,7 @@ footer {
 
 .provider-item-details a:hover {
 	text-decoration: underline;
-} 
+}
 
 .provider-content {
 	line-height: 1.5em;
@@ -240,7 +240,7 @@ footer {
 .provider-content .text-center {
 	text-align: center;
 }
-  
+
 .provider-content img {
 	max-width: 100%;
     margin-right: auto;
@@ -256,3 +256,9 @@ footer {
 	margin-top: 1rem;
 	display: block;
 }
+
+.map {
+	width: 100%;
+	height: 400px;
+  }
+
